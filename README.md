@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ez4lionky
 - 👀 I’m interested in Computer Vision and Machine learning.
-- 🌱 I’m currently interested in 3D reconstruction and relocalization.
+- 🌱 I’m currently interested in LLM Quantization.
 - 💞️ I’m looking to collaborate on related researches.
 - 📫 You can reach me by codex.lxy@gmail.com, cheers.
 
